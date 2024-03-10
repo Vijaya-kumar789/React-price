@@ -1,0 +1,12 @@
+.container{
+ background-image:linear-gradient(rgb(85, 85, 233),blue);
+ padding-top: 20px;
+ 
+}
+.btn-outline-primary{
+  background-color: rgb(75, 101, 219);
+  color: white;
+}
+.btn-lg{
+  border-radius: 100px;
+}
